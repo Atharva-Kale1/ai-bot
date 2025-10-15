@@ -1,0 +1,952 @@
+[
+  {
+    "question": "Compute",
+    "answer": "Amazon EC2 Auto Scaling FAQ\nAmazon EC2 Container Registry FAQ\nAmazon EC2 Container Service FAQ\nAmazon EC2 Windows FAQ\nAmazon EC2 FAQ\nAmazon Elastic Kubernetes Service (EKS) FAQ\nAmazon Lightsail FAQ\nAWS Batch FAQ\nAWS Data Exchange FAQ\nAWS Elastic Beanstalk FAQ\nAWS Fargate FAQ\nAWS Lambda FAQ\nAWS Outposts FAQ\nAWS Serverless Application Repository FAQ\nVMware Cloud on AWS FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Storage",
+    "answer": "Amazon EBS FAQ\nAmazon EFS FAQ\nAmazon FSx for Lustre FAQ\nAmazon FSx for Windows File Server FAQ\nAmazon S3 FAQ\nAWS Backup FAQ\nAWS DataSync FAQ\nAWS Elastic Disaster Recovery FAQ\nAWS Snowball FAQ\nAWS Snowball Edge FAQ\nAWS Snowmobile FAQ\nAWS Storage Gateway FAQ\nAWS Transfer for SFTP FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Database",
+    "answer": "Amazon Aurora FAQ\nAmazon RDS FAQ\nAmazon DynamoDB FAQ\nAmazon ElastiCache FAQ\nAmazon Redshift FAQ\nAmazon Neptune FAQ\nAWS Database Migration Service FAQ\nAmazon DocumentDB (with MongoDB compatibility) FAQs\nAmazon Timestream FAQs",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Migration",
+    "answer": "AWS Application Discovery Service\nAWS Application Migration Service FAQ\nAWS Migration Hub FAQ\nAWS Server Migration Service FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Networking & Content Delivery",
+    "answer": "Amazon VPC FAQ\nAmazon CloudFront FAQ\nAmazon Route 53 FAQ\nAmazon API Gateway FAQ\nAWS App Mesh FAQ\nAWS Direct Connect FAQ\nElastic Load Balancing FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Developer Tools",
+    "answer": "AWS CodeStar FAQ\nAWS CodeCommit FAQ\nAWS CodeBuild FAQ\nAWS CodeDeploy FAQ\nAWS CodePipeline FAQ\nAWS Cloud9 FAQ\nAWS CloudShell FAQ\nAWS X-Ray FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Management Tools",
+    "answer": "Amazon CloudWatch FAQ\nAWS Auto Scaling FAQ\nAWS CloudFormation FAQ\nAmazon CloudTrail FAQ\nAmazon Config FAQ\nAWS License Manager FAQ\nAWS OpsWorks FAQ\nAmazon Service Catalog FAQ\nAWS Systems Manager FAQ\nAWS Trusted Advisor FAQ\nAWS Management Console FAQ\nAWS Managed Services",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Media Services",
+    "answer": "Amazon Kinesis Video Streams FAQ\nAmazon Elastic Transcoder FAQ\nAWS Elemental MediaConvert FAQ\nAWS Elemental MediaLive FAQ\nAWS Elemental MediaPackage FAQ\nAWS Elemental MediaStore FAQ\nAWS Elemental MediaTailor FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Artificial Intelligence",
+    "answer": "Amazon Polly FAQ\nAmazon Rekognition FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Satellite",
+    "answer": "AWS Ground Station FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Machine Learning",
+    "answer": "Amazon Forecast FAQ\nAmazon Kendra FAQ\nAmazon Personalize FAQ\nAmazon Textract FAQ\nAWS Comprehend FAQ\nAWS DeepLens FAQ\nAmazon Lex FAQ\nAWS SageMaker FAQ\nAWS Transcribe FAQ\nAWS Translate FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Analytics",
+    "answer": "Amazon Athena FAQ\nAmazon Elastic MapReduce (EMR) FAQ\nAmazon CloudSearch FAQ\nAmazon Kinesis FAQ\nAmazon MSK FAQ\nAmazon OpenSearch Service FAQ\nAmazon Redshift FAQ\nAmazon QuickSight FAQ\nAWS Data Pipeline FAQ\nAWS Glue FAQ\nAWS Lake Formation FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Security, Identity, & Compliance",
+    "answer": "AWS Identity and Access Management FAQ\nAWS IAM Identity Center (successor to AWS SSO) FAQ\nAmazon Cloud Directory\nAmazon Cognito FAQ\nAWS GuardDuty FAQ\nAmazon Inspector FAQ\nAmazon Macie FAQ\nAWS Certificate Manager FAQ\nAWS CloudHSM FAQ\nAWS Secrets Manager\nAWS Directory Service FAQ\nAWS Key Management Service FAQ\nAWS Organizations FAQ\nAWS Shield FAQ\nAWS WAF FAQ\nAWS Artifact FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Mobile Services",
+    "answer": "AWS Amplify FAQ\nAWS AppSync FAQ\nAWS Device Farm FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "AR & VR",
+    "answer": "Amazon Sumerian FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Application Integration",
+    "answer": "Amazon MQ FAQ\nAmazon SQS FAQ\nAmazon SNS FAQ\nAmazon SWF FAQ\nAWS AppFlow FAQ\nAWS Step Functions FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Cloud Financial Management",
+    "answer": "AWS Application Cost Profiler FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Customer Engagement",
+    "answer": "Amazon Pinpoint FAQ\nAmazon SES FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Business Productivity",
+    "answer": "Amazon Chime FAQ\nAmazon WorkDocs FAQ\nAmazon WorkMail FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Desktop & App Streaming",
+    "answer": "Amazon WorkSpaces FAQ\nAmazon AppStream 2.0 FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Internet of Things",
+    "answer": "AWS IoT Core FAQ\nAmazon FreeRTOS FAQ\nAWS Greengrass FAQ\nAWS IoT 1-Click FAQ\nAWS IoT Analytics FAQ\nAWS IoT Button FAQ\nAWS IoT Device Management FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Game Development",
+    "answer": "Amazon GameLift\nAmazon Lumberyard",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Payments & Billing",
+    "answer": "AWS Billing FAQ\nAmazon FPS FAQ\nAmazon DevPay FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Support",
+    "answer": "AWS Support FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Customer Enablement Services",
+    "answer": "AWS IQ FAQ",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Cloud computing concepts FAQs",
+    "answer": "The Cloud Computing Concepts Hub is the centralized place where you can browse or search for informative articles about cloud computing. You'll find easy-to-understand info about broad topics such as \"What is machine learning?\" and \"What is data science?\" These articles are intended to help you up-level your understanding of frequently asked cloud computing topics.\nWhat is a SQL database?\nWhat are AI Agents?\nWhat is Enterprise AI?\nWhat is AI Coding?\nWhat is Text to Speech (TTS)?\nWhat is Contact Management?\nWhat is Container Orchestration?\nWhat is Continuous Testing?\nWhat is Distributed Tracing?\nWhat is EDI?\nWhat is EAI?\nWhat is K8s Cluster?\nWhat is MAM?\nWhat is Operational Intelligence?\nWhat is RAG?\nWhat is SaaS Integration?\nWhat is Transfer Learning?\nWhat is a Transformer in AI?\nWhat is Video Transcoding?\nWhat is Cloud Management?\nWhat is Customer Data Platform (CDP)?\nWhat is a Data Catalog?\nWhat is Full Stack Development?\nWhat is Application Integration?\nWhat is Business Analytics?\nWhat is Unit Testing?\nWhat is AIOps?\nWhat is MLOps?\nWhat is GPU?\nWhat is Data Migration?\nWhat is Advanced Analytics?\nWhat is Predictive Maintenance?\nWhat is Artificial Intelligence (AI)?\nWhat is Public Cloud?\nWhat is API Key?\nWhat is Conversational AI?\nWhat is IT Infrastructure?\nWhat is Framework?\nWhat is Apache Flink?\nWhat is Cloud Migration?\nWhat is Reinforcement Learning?\nWhat is OSI Model?\nWhat is Data Backup?\nWhat is CPU?\nWhat is Materialized View?\nWhat is Zero ETL?\nWhat is SMTP?\nWhat is Data Masking?\nWhat is Dynamic DNS?\nWhat is ESB (Enterprise Service Bus)?\nWhat is generative AI?\nWhat is headless cms?\nWhat is automated reasoning?\nWhat is AJAX?\nWhat is ICMP?\nWhat is Interactive Voice Response?\nWhat is an Event Listener?\nWhat is GPT?\nWhat is Apache Iceberg?\nWhat is CIAM?\nWhat is SDK?\nWhat is Dead Letter Queue?\nWhat is Architecture Diagramming?\nWhat is Geospatial Data?\nWhat is a Bot?\nWhat is Application Performance Monitoring (APM)?\nWhat is SDLC?\nWhat is a Hypervisor?\nWhat are Log Files?\nWhat is Structured Data?\nWhat is a Data Mesh?\nWhat is a Data Pipeline?\nWhat is Data Sharing?\nWhat is a Data Store?\nWhat is a Private Cloud?\nWhat is Data Integration?\nWhat is a Workflow?\nWhat is a Web Application?\nWhat is Edge Computing?\nWhat is Document Search?\nWhat is Operational Analytics?\nWhat is Data Cleansing?\nWhat is Elasticsearch?\nWhat is No Code Machine Learning?\nWhat is 5G?\nWhat is Cybersecurity?\nWhat is MQTT protocol?\nWhat is Audio to Text Converter?\nWhat is Batch Processing?\nWhat is Block Storage?\nWhat is an Instance in Cloud Computing?\nWhat is Containerization?\nWhat is Data Management?\nWhat is Data Mart?\nWhat is Database Sharding?\nWhat is Digital Twin Technology?\nWhat is Django?\nWhat is End User Computing?\nWhat is Enterprise Software?\nWhat is Infrastructure as a Service (IaaS)?\nWhat is LAMP Stack?\nWhat is Logistic Regression?\nWhat is Cloud Native?\nWhat is Data Analytics?\nWhat is Data Modeling?\nWhat is Data Visualization?\nWhat is CIS benchmarks?\nWhat is cloud bursting?\nWhat is data strategy?\nWhat is facial recognition?\nWhat is mobile cloud computing?\nWhat is JavaScript?\nWhat is disaster recovery?\nWhat is java runtime environment?\nWhat is multi-factor authentication (MFA)?\nWhat is data preparation?\nWhat is blockchain technology?\nWhat is compute?\nWhat is data science?\nWhat is a forecast?\nWhat is IoT (Internet of Things)?\nWhat is Java?\nWhat is a data warehouse?\nWhat is computer networking?\nWhat is a VPN?\nWhat is an API?\nWhat is speech to text?\nWhat is web hosting?\nWhat is version control?\nWhat is serverless?\nWhat is root cause analysis?\nWhat is a relational database?\nWhat is Redis?\nWhat is Presto?\nWhat is PostgreSQL?\nWhat is object storage?\nWhat is MySQL?\nWhat is Kubernetes (k8s)?\nWhat is JSON?\nWhat is Hive?\nWhat is Hadoop?\nWhat is GIT?\nWhat is face recognition?\nWhat is ELK?\nWhat is Cryptography?\nWhat is Log Analytics?\nWhat is Debugging?\nWhat is Distributed computing?\nWhat is Flutter?\nWhat is boosting?\nWhat is data architecture?\nWhat is ISV?\nWhat is Text Classification?\nWhat is Valkey?\nWhat is Application Migration?\nWhat is AGI?\nWhat is CAF?\nWhat is Configuration Management?\nWhat are Autoregressive Models?\nWhat is Data Augmentation?\nWhat is Embeddings in Machine Learning?\nWhat is IDP?\nWhat is LangChain?\nWhat is Neural Radiance Fields?\nWhat is RNN?\nWhat is RLHF?\nWhat are Cloud Containers?\nWhat is Developer Tools?\nWhat is a Serverless Database?\nWhat is Serverless Computing?\nWhat is Supercomputing?\nWhat is Synthetic Data?\nWhat is s Cloud Server?\nWhat is Real-Time Data Streaming?\nWhat is Apache HBase?\nWhat is Apache Kafka?\nWhat is Boilerplate Code?\nWhat is Code Quality?\nWhat is GAN?\nWhat is Cognitive Search?\nWhat is Apache Spark?\nWhat is Prompt Engineering?\nWhat is Cloud Networking?\nWhat is Remove Monitoring and Management?\nWhat is Cloud Infrastructure?\nWhat is Intelligent Automation?\nWhat is Stable Diffusion?\nWhat is Dedicated Server?\nWhat is Incident Management?\nWhat are Large Language Models?\nWhat are Foundational Models?\nWhat is Cloud Hosting?\nWhat is iPaaS?\nWhat is IAC?\nWhat is CLI?\nWhat is Web3?\nWhat is Thin Client?\nWhat is Interoperability?\nWhat is Service Mesh?\nWhat is Data Governance?\nWhat is SMS?\nWhat is Business Intelligence?\nWhat is a Vector Database?\nWhat is Computer Vision?\nWhat is BGD (Border Gateway Protocol)?\nWhat is CORS?\nWhat is Simulation Infrastructure Manager?\nWhat is RTT in Networking?\nWhat is Genomic Data?\nWhat is CIDR?\nWhat is Push Notification Service?\nWhat is CSP Network Automation?\nWhat is Video Conferencing?\nWhat is Hyperparameter Training?\nWhat is a Computer Chip?\nWhat is a Data Cloud?\nWhat is Low Code?\nWhat is Pub/Sub Messaging?\nWhat is SLA (Service Level Agreement)?\nWhat is Repo?\nWhat is KVM?\nWhat is Streaming data?\nWhat is DevSecOps?\nWhat is Virtualization?\nWhat is Anomaly Detection?\nWhat is Security Analytics?\nWhat is Predictive Analytics?\nWhat is SIP Trunking?\nWhat is Deep Learning?\nWhat is a Database?\nWhat is Latency?\nWhat is Linear Regression?\nWhat is Load Balancing?\nWhat is Monte Carlo Simulation?\nWhat is .Net?\nWhat is Natural Language Processing (NLP)?\nWhat is Online Analytical Processing (OLAP)?\nWhat is Overfitting?\nWhat is Routing?\nWhat is Sentiment Analysis?\nWhat is SQL?\nWhat is SRE?\nWhat is XML?\nWhat is Virtual Desktop Infrastructure (VDI)?\nWhat is a SSL and TLS Certificate?\nWhat is Data Visualization?\nWhat is IDE?\nWhat is Open Source?\nWhat is Service Oriented Architecture?\nWhat is feature engineering?\nWhat is GRC?\nWhat is Scrum?\nWhat is machine translation?\nWhat is endpoint security?\nWhat is a wide area network (WAN)?\nWhat is web hosting?\nWhat is a content delivery network (CDN)?\nWhat is machine learning (ML)?\nWhat is middleware?\nWhat is NAS (Network Attached Storage)?\nWhat is a neural network?\nWhat is OCR (Optical Character Recognition)?\nWhat is Python?\nWhat is RESTful API?\nWhat is text analysis?\nWhat is DNS (Domain Name Service)?\nWhat is IT disaster recovery?\nWhat is DDOS?\nWhat is data labeling?\nWhat is continuous integration?\nWhat is computer vision?\nWhat is cloud storage?\nWhat is caching?\nWhat is big data?\nWhat is a full stack developer?\nWhat is a data lake house?\nWhat is a chatbot?\nWhat is a CDN?\nWhat are NoSQL databases?\nWhat are microservices?\nWhat is OpenSearch?\nWhat is MongoDB?\nWhat is DevOps?\nWhat is a data lake?\nWhat is Docker?\nWhat is IPSEC?\nWhat is Jaeger?\nWhat is SSO (Single Sign On)?\nWhat is VPS (Virtual Private Server)?\nWhat is Event-Driven Architecture (EDA)?\nWhat is ETL?\nWhat is Grid Computing?\nWhat is Quantum Computing?\nWhat is Cloud File Storage?\nWhat is Application Lifecycle Management (ALM)?\nWhat is Software as a Service (SaaS)?\nWhat is Hybrid Cloud?\nWhat is a Data Center?\nWhat is Data Mining?",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Cloud comparison tool FAQs",
+    "answer": "The Cloud Comparison Tool features content that helps readers understand common use cases for when to use one cloud solution or another. Compare and contrast cloud solutions and learn the nuances of different use cases that work best for your situation.\nKafka vs Redis\nACID vs BASE Database\nCassandra vs HBase\nData Science vs AI\nDedicated Server vs VPS\nIPv4 vs IPv6\nRabbitMq vs Redis\nDocker Images vs Containers\nMariaDB vs PostgreSQL\nSupervised vs Unsupervised Machine Learning\nKafka vs Spark\nVDI vs VPN\nPublic vs Private Cloud\nNFS vs CIFs\nRedis vs MongoDB\nWeb Server vs Application Server\nSQL vs MySQL\nXML vs HTML\nLinear vs Logistic Regression\nYAML vs JSON\nBusiness Intelligence vs Machine Learning\nDocker vs VM\nThroughput vs Latency\nIncremental vs Differential vs Other Backups\nETL vs ELT\nAPT vs APT-GET\nMonlithic vs Microservice\nFrontend vs Backend\nMariaDB vs MySQL\nArtificial Intelligence vs Machine Learning\nMachine Learning vs Deep Learning\nSSL vs TLS\nJSON vs XML\nSSD vs HDD\nContainers vs Virtual Machines\nData Lake vs Data Warehouse vs Data Mart\nLAN vs WAN\nLogical vs Physical Data Model\nMonitoring vs Observability\nDemand vs Reserved Instances\nTerraform vs K8s\nALB vs NLB vs GLB\nStructured vs Unstructured Data\nDeep Learning vs Neural Networks\nGraph vs Relational Databases\nNFS vs iSCSI\nSaaS vs On-premises\nKafka vs Redis\nType 1 vs Type 2 Hypervisors\nAgile vs DevOps\nSOA vs Microservices\nBlock vs File vs Object Storage\nMicroservices vs APIs\nMongoDB vs PostgreSQL\nNFS vs SMB\ngRPC vs REST\nRPC vs REST\nMongoDB vs MySQL\nMicroprocessors vs Microcontrollers\nCassandra vs MongoDB\nRelational vs. Non-relational Databases\nSDK vs API\nKafka vs RabbitMQ\nProxy vs VPN\nGraphQL vs Rest API\nHadoop vs Spark\nKubernetes vs Docker\nHTTPS vs HTTP\nSOAP vs REST\nMySQL vs PostgreSQL\nWeb Apps vs. Native Apps vs. Hybrid\nGPU vs CPU\nOLAP vs OLTP",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "AWS Seller of Record FAQs",
+    "answer": "The Seller of Record (SoR) content helps Customers understand their billing, payment, tax regulations and contracting party for each jurisdiction. See FAQs for your specific Seller of Record below. For more information about SoRs, see Finding the seller of record.\n› AWS Australia FAQs - this page provides additional information for customers located in Australia. › AWS SBL FAQs - this page provides additional information for customers located in Brazil. › AWS Canada FAQs - this page provides additional information for customers located in Canada. › AWS India FAQ s - this page provides additional information for customers located in India. › AWS Japan FAQs - this page provides additional information for customers located in Japan. › AWS Malaysia FAQs - this page provides additional information for customers located in Malaysia. › AWS New Zealand FAQ s  - this page provides additional information for customers located in New Zealand.\n› AWS Singapore FAQs - this page provides additional information for customers located in Singapore. › AWS South Africa FAQs - this page provides additional information for customers located in South Africa › AWS South Korea FAQs - this page provides additional information for customers located in South Korea. › AWS Turkey FAQs - this page provides additional information for customers located in Türkiye. › AWS Europe FAQs - this page provides additional information for customers located in Europe, the Middle East, or Africa (other than South Africa).",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "AWS Free Tier Offerings",
+    "answer": "View all AWS free tier offerings\nFree Tier Registration FAQs\nFree Tier FAQs\nFree analytics services\nFree cloud object storage\nCompare free cloud servers\nFree cloud server\nFree container services\nFree DevOps services\nFree IoT services\nFree networking and content delivery services\nFree app integration services\nFree compute services\nFree machine learning services\nFree database services\nFree websites and webapps\nFree cloud storage\nFree end user computing services\nFree cloud migration services\nFree cloud security services\nFree serverless computing services",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Learn",
+    "answer": "What Is AWS? What Is Cloud Computing? What Is Agentic AI? Cloud Computing Concepts Hub AWS Cloud Security What's New Blogs Press Releases",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Resources",
+    "answer": "Getting Started Training AWS Trust Center AWS Solutions Library Architecture Center Product and Technical FAQs Analyst Reports AWS Partners",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Developers",
+    "answer": "Builder Center SDKs & Tools .NET on AWS Python on AWS Java on AWS PHP on AWS JavaScript on AWS",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Help",
+    "answer": "Contact Us File a Support Ticket AWS re:Post Knowledge Center AWS Support Overview Get Expert Help AWS Accessibility Legal",
+    "source": "https://aws.amazon.com/faqs/"
+  },
+  {
+    "question": "Shopping & Rewards",
+    "answer": "Buy Now, Pay Later Rewards PayPal credit and cards PayPal Debit Card Paying with PayPal",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Send & Receive",
+    "answer": "Send money Request money Pool money Donate Start selling",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Manage Your Money",
+    "answer": "Add cards and banks Security and safety Set up Direct Deposit Add cash Pay bills Savings and goals Cryptocurrency",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "PayPal Open",
+    "answer": "The platform for all business",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Business Types",
+    "answer": "Enterprises Small Businesses Solopreneurs Partners Platforms Developers",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Accept Payments",
+    "answer": "Online Checkout Installment Payments Guest Checkout Accept Venmo POS System Invoicing Payment Links Enterprise Payments Tap to Pay",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Risk & Operations",
+    "answer": "Make Payments Risk Management Fraud Protection Reporting Tools Shipping",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Financial Services",
+    "answer": "Working Capital Loan Business Loan Business Debit Card",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Why is the payment I sent pending or unclaimed?",
+    "answer": "Can I cancel it?",
+    "source": "https://www.paypal.com/us/smarthelp/home"
+  },
+  {
+    "question": "Hi, how can we help?",
+    "answer": "Common troubleshooting topics: notifications , connecting to Slack , huddles\nHow do I add people to a channel? I need to reset my password. How can I upgrade my Slack plan? Powered by Agentforce",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Getting started",
+    "answer": "Welcome to Slack! Nice to see you here. Let’s get started!",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Using Slack",
+    "answer": "From channels to search, learn how Slack works from top to bottom.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Your profile & preferences",
+    "answer": "Adjust your profile and preferences to make Slack work just for you.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Connect tools & automate tasks",
+    "answer": "Connect, simplify and automate. Discover the power of apps and tools.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Workspace administration",
+    "answer": "Want to learn more about setting up your team? Look no further!",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Tutorials & videos",
+    "answer": "Learning Slack made simple: tutorials, videos and tips to get up to speed and get work done.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Featured articles",
+    "answer": "Send and read messages Set your Slack status and availability View all your unread messages Use threads to organise discussions Understand your actions in Slack What is a channel?",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Slack Tips",
+    "answer": "The Quick Switcher: skip happily from channel to channel with ⌘/Ctrl+K. Need to quickly search the channel you’re in? ⌘/Ctrl+F will start that search for you. Sent something too soon? Press the up key to edit your last message.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Need to quickly search the channel you’re in?",
+    "answer": "⌘/Ctrl+F will start that search for you.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Sent something too soon?",
+    "answer": "Press the up key to edit your last message.",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Why Slack?",
+    "answer": "Why Slack? Slack vs email Enterprise Small business Productivity Task management Scale Trust",
+    "source": "https://slack.com/help"
+  },
+  {
+    "question": "Solutions and Services",
+    "answer": "See what’s new",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "For your industry",
+    "answer": "E-commerce and retail Mobile and web apps Start-ups Agencies and freelancers Developers",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Professional Services",
+    "answer": "Hire an Expert Personalized onboarding Customer success",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Integrations",
+    "answer": "See 300+ Integrations",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Most Popular",
+    "answer": "Shopify WooCommerce Canva Zapier Square Wix Squarespace Stripe Salesforce LinkedIn Wordpress Facebook",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Your Tech Stack",
+    "answer": "E-commerce Analytics Booking & Scheduling Loyalty Subscription management Customer service Forms & Surveys Developer tools Content",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "For Developers",
+    "answer": "Getting started Developer guides API docs Webhooks",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Learn with Mailchimp",
+    "answer": "E-commerce Digital content Marketing automations Audience management Websites Email marketing Social media",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Mailchimp Presents",
+    "answer": "Podcasts Series Films",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Account",
+    "answer": "Audience Campaigns Account Log Out\nMailchimp Home",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Main Menu",
+    "answer": "Solutions and Services Back Close Main Menu Solutions and Services Email marketing Send personalized emails that convert Websites Create your branded web presence Social media marketing Amplify the conversation across multiple channels Templates Customize pre-designed layouts Marketing automation Deliver the right message at the right time Reporting & analytics Track sales & campaign performance Audience management Target and segment customers AI marketing tools Say hello to your AI growth assistant Content creation tools Build content that captivates and converts Lead generation platform Grow your audience with high-quality leads See all features See all our product offerings in one place See what’s new For your industry Back Close Main Menu For your industry E-commerce and retail Mobile and web apps Start-ups Agencies and freelancers Developers Professional Services Back Close Main Menu Professional Services Hire an Expert Personalized onboarding Customer success Integrations Back Close Main Menu Integrations Most Popular Back Close Main Menu Most Popular Shopify WooCommerce Canva Zapier Square Wix Squarespace Stripe Salesforce LinkedIn Wordpress Facebook Your Tech Stack Back Close Main Menu Your Tech Stack E-commerce Analytics Booking & Scheduling Loyalty Subscription management Customer service Forms & Surveys Developer tools Content See 300+ Integrations For Developers Back Close Main Menu For Developers Getting started Developer guides API docs Webhooks Resources Back Close Main Menu Resources Learn with Mailchimp Back Close Main Menu Learn with Mailchimp E-commerce Digital content Marketing automations Audience management Websites Email marketing Social media Mailchimp Presents Back Close Main Menu Mailchimp Presents Podcasts Series Films For Developers Back Close Main Menu For Developers Marketing API Transactional API Release notes Transactional email See all resources Help Center Case Studies Events Professional Services Back Close Main Menu Professional Services Hire an Expert Personalized onboarding Customer success Switch to Mailchimp Pricing\nSearch This page is now available in other languages. English EN English ES Español FR Français BR Português DE Deutsch IT Italiano Contact Sales: +1 (800) 315-5939 Hi, %s Back Close Main Menu Account Audience Campaigns Account Log Out Mailchimp Home Log In Sign Up Log In Log In Sign Up",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Know to Grow: Feature guide for smart marketing",
+    "answer": "Learn how to use our advanced marketing features to understand your customers, create compelling content, and grow your business.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Getting Started with Tags",
+    "answer": "Tags are labels you create to help organize your contacts in Mailchimp. Learn how to use tags, where to find them, and how to get started.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Requirements and Best Practices for Audiences",
+    "answer": "An audience of engaged contacts means more sales and a higher return on investment (ROI). Get tips and requirements for maintaining your Mailchimp audience.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Import Contacts to Mailchimp",
+    "answer": "Learn how to use our import tool to add or update contacts in Mailchimp.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "About Mailchimp Pricing Plans",
+    "answer": "Whether you're starting out or already have a large number of contacts, we have a pricing option for you. Learn about Mailchimp's pricing plans, features, and add-ons.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "About SMS Marketing with Mailchimp",
+    "answer": "Learn about the details of SMS Marketing with Mailchimp.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Quick start video tutorials",
+    "answer": "How to Create a New Audience for Smarter Growth ▶ 2:50 How to Organize Add, Remove, and Bulk Tag Contacts in 3 Simple Ways ▶ 4:37 Create a Successful Email: A Step-by-Step Guide ▶ 5:13\nSee more",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "How to Create a New Audience for Smarter Growth",
+    "answer": "▶ 2:50",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "How to Organize Add, Remove, and Bulk Tag Contacts in 3 Simple Ways",
+    "answer": "▶ 4:37",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Create a Successful Email: A Step-by-Step Guide",
+    "answer": "▶ 5:13",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Contact our Support team",
+    "answer": "Have more questions? Customers with paid plans can log in and email or chat with us.\nSign up free\nLog in",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Accounts",
+    "answer": "Set up your account, learn about billing, and stay up-to-date on compliance policies.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Audiences",
+    "answer": "Import contacts, create signup forms, and manage your Mailchimp audiences.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Automation",
+    "answer": "Automatically send purchase emails, welcome messages, and more.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Data Privacy",
+    "answer": "Find answers to commonly asked questions related to Mailchimp's privacy practices.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Edit and Design",
+    "answer": "Customize the content of your emails, landing pages, website, and other types of marketing in Mailchimp.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Email Delivery",
+    "answer": "Learn how we deliver email and how you can ensure contacts get your campaigns.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Emails",
+    "answer": "Use Mailchimp to build and send emails for your contacts.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Google Remarketing Ads",
+    "answer": "Reach potential customers all across the internet with Google remarketing ads.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Landing Pages",
+    "answer": "Create standalone web pages your audience can “land” on from emails, ads, or other digital locations.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Mailchimp & Co",
+    "answer": "Learn how to use the tools that help you manage your clients and the benefits of joining our partner program.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Merge Tags",
+    "answer": "Personalize your campaigns with contact names, social media buttons, blog posts, and more.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Mobile Apps",
+    "answer": "Learn how to use Mailchimp on tablets, smartphones, and other mobile devices.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Reports",
+    "answer": "Get performance stats for your marketing efforts and e-commerce store.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Templates",
+    "answer": "Use a prebuilt design or code your own templates for email campaigns.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Transactional Email",
+    "answer": "Send one-to-one e-commerce emails and automated transactional emails with Transactional Email’s delivery service.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Websites",
+    "answer": "Purchase a domain and create your own website with Mailchimp.",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Get help from an expert",
+    "answer": "Need a hand with template design, using Mailchimp's advanced features, or general marketing strategy? Use our experts directory to find someone who can help you make things happen.\nBrowse the directory",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Still have questions?",
+    "answer": "If you have a question about something that isn't covered here, check out our additional resources . And if that doesn't do the trick, you can send an inquiry through our contact form.\nContact us",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Products",
+    "answer": "Why Mailchimp? Product Updates Email Marketing Websites Transactional Email How We Compare GDPR Compliance Security Status Mobile App",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Community",
+    "answer": "Agencies & Freelancers Developers Events",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "Company",
+    "answer": "Our Story Newsroom Give Where You Live Careers Accessibility",
+    "source": "https://mailchimp.com/help/"
+  },
+  {
+    "question": "How can we help you?",
+    "answer": "Connect a domain Upgrade my plan Add email Reset my password",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Popular guides",
+    "answer": "View all guides",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Get started",
+    "answer": "Learn the essentials for creating your site.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Edit your website",
+    "answer": "Customize the look and feel of your site.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Manage your domains",
+    "answer": "Understand how to use domains with your site.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Create content",
+    "answer": "Manage different content for your site.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Grow your audience",
+    "answer": "Increase traffic and leverage social media.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Manage your account",
+    "answer": "Update your account and payment settings.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Level up with our courses",
+    "answer": "View all courses",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Create your website on WordPress.com",
+    "answer": "This step-by-step video course will help you create your site. We’ll show you all the essentials to get your vision online.\nStart course",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "WordPress.com blog",
+    "answer": "Stay up to date with the latest news from the WordPress.com community.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "YouTube videos",
+    "answer": "Subscribe to our YouTube channel for interviews, customer stories, and more.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Developer docs",
+    "answer": "Need to build something for your clients? We have everything you need.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Couldn't find what you needed?",
+    "answer": "Contact us Get answers from our AI assistant, with access to 24/7 expert human support on paid plans. Ask a question in our forum Browse questions and get answers from other experienced users.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Contact us",
+    "answer": "Get answers from our AI assistant, with access to 24/7 expert human support on paid plans.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Ask a question in our forum",
+    "answer": "Browse questions and get answers from other experienced users.",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Social Media",
+    "answer": "WordPress.com on Facebook WordPress.com on X (Twitter) WordPress.com on Instagram WordPress.com on YouTube",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Automattic",
+    "answer": "Automattic Work With Us",
+    "source": "https://wordpress.com/support/"
+  },
+  {
+    "question": "Browse by apps",
+    "answer": "Cloud Data Center Jira Software Jira Service Management Confluence Bitbucket Trello See all other apps Jira Software Jira Service Management Jira Core Confluence Bitbucket See all other apps",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Browse resources",
+    "answer": "Community Find answers, support, and inspiration from other Atlassian users. Visit Atlassian Community System Status Check the health of our cloud apps and services. View system status Suggestions and bug reports Find existing feature suggestions and bug reports. View suggestions and bugs Marketplace apps Find features to customize your apps. View Marketplace Billing and licensing See FAQs about billing and licensing. View FAQs Training and Certification Develop new skills, improve your team’s work, and advance your professional career. View training Developers Find API documentation and guides for developing apps and integrations. View developer docs Enterprise Learn about Atlassian Enterprise and its Data Center products. View enterprise documentation Government Cloud Support Get technical and migration support for an Atlassian Government project. Log in to contact support Success Central Get help adopting your apps with a library of content authored by Atlassian and partner experts. View Success Central",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "System Status",
+    "answer": "Check the health of our cloud apps and services.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Suggestions and bug reports",
+    "answer": "Find existing feature suggestions and bug reports.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Marketplace apps",
+    "answer": "Find features to customize your apps.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Billing and licensing",
+    "answer": "See FAQs about billing and licensing.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Training and Certification",
+    "answer": "Develop new skills, improve your team’s work, and advance your professional career.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Enterprise",
+    "answer": "Learn about Atlassian Enterprise and its Data Center products.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Government Cloud Support",
+    "answer": "Get technical and migration support for an Atlassian Government project.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Success Central",
+    "answer": "Get help adopting your apps with a library of content authored by Atlassian and partner experts.",
+    "source": "https://support.atlassian.com/"
+  },
+  {
+    "question": "Global",
+    "answer": "Microsoft 365 Teams Copilot Windows Surface Xbox Deals Small Business Support",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Trending topics",
+    "answer": "Microsoft 365 Install Microsoft 365 Sign in to Microsoft 365 Manage payment and billing Microsoft account & storage How to sign in to your Microsoft account Change your Microsoft account password How does Microsoft storage work? Activation Activate Office Activate Windows Find your Windows product key Windows & devices Windows 11 system requirements Windows 10 end of support Find your hardware warranty",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Microsoft 365",
+    "answer": "Install Microsoft 365 Sign in to Microsoft 365 Manage payment and billing",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Microsoft account & storage",
+    "answer": "How to sign in to your Microsoft account Change your Microsoft account password How does Microsoft storage work?",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Activation",
+    "answer": "Activate Office Activate Windows Find your Windows product key",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Windows & devices",
+    "answer": "Windows 11 system requirements Windows 10 end of support Find your hardware warranty",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Explore",
+    "answer": "Your AI-first productivity app for work and home Ask, create, and draft with Copilot, plus your favorite apps and content in one place. Discover what you can do with Microsoft 365 Copilot app Microsoft 365 Training Center Get productive quickly with these\r\n                                Microsoft 365\r\n                                videos, tutorials, and resources. Browse Training Options",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Your AI-first productivity app for work and home",
+    "answer": "Ask, create, and draft with Copilot, plus your favorite apps and content in one place.\nDiscover what you can do with Microsoft 365 Copilot app",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Microsoft 365 Training Center",
+    "answer": "Get productive quickly with these\r\n                                Microsoft 365\r\n                                videos, tutorials, and resources.\nBrowse Training Options",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Enhance your personal productivity with AI",
+    "answer": "Copilot in Microsoft 365 now helps you do more with the apps you use every day.\nFind more about your new AI-powered productivity suite\nGet Microsoft 365",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Microsoft 365 small business success stories",
+    "answer": "Explore how Microsoft 365 empowers an artist collective. Duration: 1 minute 48 seconds Discover how a restaurant group operates like a corporation. Duration: 2 minutes Watch Mighty Media scale creativity with Microsoft 365 Copilot. Duration: 2 minutes 1 seconds See how Mighty Media drives efficiency in video production. Duration: 1 minute 37 seconds See how chef Chris Weber manages teams at a generational business. Duration: 1 minute 55 seconds Learn how small business owner Dave Quick rebuilt his company. Duration: 2 minutes 22 seconds Watch how solopreneur Jazz Oden keeps her business going. Duration: 1 minute 35 seconds See how Jimmy Davidson and his design-build team work from anywhere. Duration: 1 minute 41 seconds Learn how solopreneur Nathan Meeks finds work-life balance. Duration: 1 minute 42 seconds Watch insurance owner Rashida Gaye pursue passions. Duration: 1 minute 43 seconds",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "If you're a small business owner",
+    "answer": "Find the information you need to build, run, and grow your small business with Microsoft 365.\nVisit Small business help and learning",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "More support options",
+    "answer": "Contact Support Contact us Ask the community Enterprise support Support for business IT Pros and admins Privacy & Security Security Report a privacy concern More support Accessibility Report a support scam",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Contact Support",
+    "answer": "Contact us Ask the community",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Enterprise support",
+    "answer": "Support for business IT Pros and admins",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Privacy & Security",
+    "answer": "Security Report a privacy concern",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "More support",
+    "answer": "Accessibility Report a support scam",
+    "source": "https://support.microsoft.com/"
+  },
+  {
+    "question": "Choose a Google product",
+    "answer": "Google Chrome Google Account YouTube Gmail Google Play Google Search Google AdSense Gemini Apps Pixel Phone Google Maps Google Cloud Google Ads Google Photos Google For Families Google Fi Wireless Google Nest Google Pay Google Store Google Drive Google Accessibility\nConsumer Blogger Finance Streaming Google Pixel Buds Google Earth Google Maps Gmail Picasa CS First Toolbar Google Search Google Calendar Google Docs Editors Books Google Groups Google Duo YouTube Google Nest Trends Android Sites Google Chrome Google Drive Google Cardboard Google News Google Voice GSOC Document Library YouTube For Families Help Pixel Phone Google Translate Google Shopping Chromebook Nik Collection Ads Google Photos Datally Google One Google Pixel Tablet Google Cast Google Pay Google Fit YouTube TV Phone app Pixelbook Google Clips Reserve with Google Nexus Files by Google Science Journal Google Pay Google Fi Wireless Google Store Google Assistant Local Guides Google Accessibility Google Messages Stadia Google Play Google Tasks Opinion Rewards User Security Android Auto Google Chat Android TV Google Wallet YouTube Music Google For Families Google Food Ordering Gemini Apps YouTube Studio App Help Center Google Pixel Watch Fitbit Ace LTE Chrome Web Store Google TV AR Waze Starbucks WiFi Contacts Snapseed Google Wifi Fitbit Google Workspace Individual My Maps Daydream Google Kids Space Wear OS by Google Travel Google Keep Google Fiber Pixel Camera Photomath Gboard Business Google Ads Editor Google Workspace Admin Cardboard Manufacturer Orion Wi-Fi Books Search Console Programmable Search Engine Publisher Center Google Arts & Culture Platform Ad Grants Google Workspace Google Ads Google Cloud Hotel Center Studio Card Issuer Google AdSense Authorized Buyers Maps Content Partners Google Cloud Platform Console Google Merchant Center Google Ad Manager Google Vault Search Ads 360 AppSheet Transit Partners Analytics Google Pay Merchant Global Market Finder Google Meet Ads Data Hub Google AdMob Chrome Enterprise and Education Local Services Elastifile Ads Creative Studio Google Marketing Platform CEWA Google for Nonprofits Cloud Search Google Pay for Online Business Work Insights Android Enterprise Google Business Profile Brand profile Gemini Business Campaign Manager 360 obf-errors-corrections Jamboard Comparison Shopping Services Center Display & Video 360 Developer Cast Developer Play Console Payments center GDG Google Web Designer reCAPTCHA Payment Processors\nYour account Can't access your account? Recent transactions with Google Useful stuff you can do with Google Help Communities Learn more about Google's Product Experts Program Status dashboard If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can check for outages and downtime on the Google Workspace Status Dashboard .",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Consumer",
+    "answer": "Blogger Finance Streaming Google Pixel Buds Google Earth Google Maps Gmail Picasa CS First Toolbar Google Search Google Calendar Google Docs Editors Books Google Groups Google Duo YouTube Google Nest Trends Android Sites Google Chrome Google Drive Google Cardboard Google News Google Voice GSOC Document Library YouTube For Families Help Pixel Phone Google Translate Google Shopping Chromebook Nik Collection Ads Google Photos Datally Google One Google Pixel Tablet Google Cast Google Pay Google Fit YouTube TV Phone app Pixelbook Google Clips Reserve with Google Nexus Files by Google Science Journal Google Pay Google Fi Wireless Google Store Google Assistant Local Guides Google Accessibility Google Messages Stadia Google Play Google Tasks Opinion Rewards User Security Android Auto Google Chat Android TV Google Wallet YouTube Music Google For Families Google Food Ordering Gemini Apps YouTube Studio App Help Center Google Pixel Watch Fitbit Ace LTE Chrome Web Store Google TV AR Waze Starbucks WiFi Contacts Snapseed Google Wifi Fitbit Google Workspace Individual My Maps Daydream Google Kids Space Wear OS by Google Travel Google Keep Google Fiber Pixel Camera Photomath Gboard",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Business",
+    "answer": "Google Ads Editor Google Workspace Admin Cardboard Manufacturer Orion Wi-Fi Books Search Console Programmable Search Engine Publisher Center Google Arts & Culture Platform Ad Grants Google Workspace Google Ads Google Cloud Hotel Center Studio Card Issuer Google AdSense Authorized Buyers Maps Content Partners Google Cloud Platform Console Google Merchant Center Google Ad Manager Google Vault Search Ads 360 AppSheet Transit Partners Analytics Google Pay Merchant Global Market Finder Google Meet Ads Data Hub Google AdMob Chrome Enterprise and Education Local Services Elastifile Ads Creative Studio Google Marketing Platform CEWA Google for Nonprofits Cloud Search Google Pay for Online Business Work Insights Android Enterprise Google Business Profile Brand profile Gemini Business Campaign Manager 360 obf-errors-corrections Jamboard Comparison Shopping Services Center Display & Video 360",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Developer",
+    "answer": "Cast Developer Play Console Payments center GDG Google Web Designer reCAPTCHA Payment Processors",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Your account",
+    "answer": "Can't access your account? Recent transactions with Google Useful stuff you can do with Google",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Help Communities",
+    "answer": "Learn more about Google's Product Experts Program",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Status dashboard",
+    "answer": "If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can check for outages and downtime on the Google Workspace Status Dashboard .",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Your account Can't access your account?",
+    "answer": "Recent transactions with Google Useful stuff you can do with Google",
+    "source": "https://support.google.com/"
+  },
+  {
+    "question": "Platform",
+    "answer": "DigitalOcean Platform Overview Information about the DigitalOcean platform, like billing details, release notes, product availability by datacenter, support plans, and account details.\nBilling Information on billing, including invoices, billing alerts, payment methods, late payments, and taxes. Accounts Manage your team membership and your name, sign-in method, and email subscriptions with your personal DigitalOcean account. Reference Home Manage resources programmatically and integrate across the developer ecosystem with CLIs, APIs, and SDKs. Support Home Looking for technical support with your DigitalOcean account or infrastructure? Start here.\nMost Viewed Product Docs How to Connect to Droplets with the Droplet Console Point to DigitalOcean Name Servers From Common Domain Registrars How to Use Environment Variables in App Platform Reference for App Specification How to Deploy from Container Images How to Create a Droplet How to Manage Databases in App Platform Choosing the Right CPU Droplet Plan How to Deploy using GitHub Actions How to Add Domains",
+    "source": "https://www.digitalocean.com/docs/"
+  },
+  {
+    "question": "We can't find any results for your search.",
+    "answer": "Try using different keywords or simplifying your search terms.",
+    "source": "https://www.digitalocean.com/docs/"
+  },
+  {
+    "question": "Set up Git",
+    "answer": "At the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Connecting to GitHub with SSH",
+    "answer": "You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Creating and managing repositories",
+    "answer": "You can create a repository on GitHub to store and collaborate on your project's files, then manage the repository's name and location.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Basic writing and formatting syntax",
+    "answer": "Create sophisticated formatting for your prose and code on GitHub with simple syntax.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "About pull requests",
+    "answer": "Learn about pull requests and draft pull requests on GitHub. Pull requests communicate changes to a branch in a repository. Once a pull request is opened, you can review changes with collaborators and add follow-up commits.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Authentication documentation",
+    "answer": "Keep your account and data secure with features like two-factor authentication, SSH, and commit signature verification.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Getting code suggestions in your IDE with GitHub Copilot",
+    "answer": "Use GitHub Copilot to get code suggestions in your editor.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Managing remote repositories",
+    "answer": "Learn to work with your local repositories on your computer and remote repositories hosted on GitHub.",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Help and support",
+    "answer": "Get quick answers! Ask Copilot your question. Ask Copilot Did you find what you needed? Yes No Privacy policy Help us make these docs great! All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request. Make a contribution Learn how to contribute Still need help? Ask the GitHub community Contact support",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Get quick answers!",
+    "answer": "Ask Copilot your question.\nAsk Copilot",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Did you find what you needed?",
+    "answer": "Yes No\nPrivacy policy",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Help us make these docs great!",
+    "answer": "All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.\nMake a contribution\nLearn how to contribute",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Still need help?",
+    "answer": "Ask the GitHub community\nContact support",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Legal",
+    "answer": "© 2025 GitHub, Inc. Terms Privacy Status Pricing Expert services Blog",
+    "source": "https://docs.github.com/en"
+  },
+  {
+    "question": "Build your dream business for $1/month",
+    "answer": "Start your free trial, then enjoy 3 months of Shopify for $1/month when you sign up for a monthly Basic or Starter plan.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Shopify",
+    "answer": "About Careers Investors Press and Media Partners Affiliates Legal Service status",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Global Impact",
+    "answer": "Sustainability Build Black Accessibility Research",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Solutions",
+    "answer": "Online Store Builder Website Builder Ecommerce Website",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Getting started with Shopify",
+    "answer": "What is Shopify and how does it work? Shopify is a complete commerce platform that lets you start, grow, and manage a business. Create and customize an online store Sell in multiple places, including web, mobile, social media, online marketplaces, brick-and-mortar locations, and pop-up shops Manage products , inventory , payments , and shipping Shopify is completely cloud-based and hosted , which means you don’t have to worry about upgrading or maintaining software or web servers. This gives you the flexibility to access and run your business from anywhere with an internet connection. How much does Shopify cost? Try Shopify free for 3 days , no credit card required. After your trial expires, choose a pricing plan that suits the size and stage of your business. Can I use my own domain name with Shopify? Yes, you can use your own domain name with Shopify. If you have an existing domain name, you can connect it to Shopify from your store’s admin. Learn more about connecting an existing domain to a Shopify store . If you don’t have a domain name yet, you can either buy one through Shopify or a third-party provider. Do I need to be a designer or developer to use Shopify? No, you don’t need to be a designer or developer to use Shopify. Customize the look and feel of your store with the online store builder and themes . Add features and functionality to your store with apps . If you need extra help, you can contact our support team , or visit the Shopify Expert Marketplace to search for and hire a certified Shopify expert. In what countries can I use Shopify? You can use Shopify in nearly every country in the world. Which languages does Shopify support? The customer-facing parts of your Shopify store, including\necommerce website, blog, checkout, and emails can be in any\nlanguage if the theme supports it. Learn more and\nexplore our themes. The admin of your Shopify store is currently available in English,\nChinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch,\nFinnish, French, German, Italian, Japanese, Korean, Norwegian,\nPolish, Portuguese (Brazil), Portuguese (Portugal), Spanish, Swedish,\nThai, and Turkish. Did this answer your question? Yes No",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What is Shopify and how does it work?",
+    "answer": "Shopify is a complete commerce platform that lets you start, grow, and manage a business. Create and customize an online store Sell in multiple places, including web, mobile, social media, online marketplaces, brick-and-mortar locations, and pop-up shops Manage products , inventory , payments , and shipping Shopify is completely cloud-based and hosted , which means you don’t have to worry about upgrading or maintaining software or web servers. This gives you the flexibility to access and run your business from anywhere with an internet connection.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "How much does Shopify cost?",
+    "answer": "Try Shopify free for 3 days , no credit card required. After your trial expires, choose a pricing plan that suits the size and stage of your business.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Can I use my own domain name with Shopify?",
+    "answer": "Yes, you can use your own domain name with Shopify. If you have an existing domain name, you can connect it to Shopify from your store’s admin. Learn more about connecting an existing domain to a Shopify store . If you don’t have a domain name yet, you can either buy one through Shopify or a third-party provider.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Do I need to be a designer or developer to use Shopify?",
+    "answer": "No, you don’t need to be a designer or developer to use Shopify. Customize the look and feel of your store with the online store builder and themes . Add features and functionality to your store with apps . If you need extra help, you can contact our support team , or visit the Shopify Expert Marketplace to search for and hire a certified Shopify expert.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "In what countries can I use Shopify?",
+    "answer": "You can use Shopify in nearly every country in the world.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Which languages does Shopify support?",
+    "answer": "The customer-facing parts of your Shopify store, including\necommerce website, blog, checkout, and emails can be in any\nlanguage if the theme supports it. Learn more and\nexplore our themes. The admin of your Shopify store is currently available in English,\nChinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch,\nFinnish, French, German, Italian, Japanese, Korean, Norwegian,\nPolish, Portuguese (Brazil), Portuguese (Portugal), Spanish, Swedish,\nThai, and Turkish.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Selling on Shopify",
+    "answer": "What do I need to start selling on Shopify? To start selling on Shopify, you’ll need a Shopify plan and products to sell. Get started by signing up for Shopify. Then set up your store and add your products . If you don’t have products to sell yet, dropshipping might be a good option for you. Where can I sell with Shopify? Shopify lets you sell almost anywhere your customers are, including online , in-person , online marketplaces, and social media. What is dropshipping, and how can I dropship with Shopify? A dropshipping business is one where the business owner lists, but doesn’t own, keep, or ship inventory. When the store sells a product, it purchases the item from a third party--usually a manufacturer or wholsesaler--who then ships it to the customer directly. This means there are no upfront inventory costs for the business owner. To start dropshipping with Shopify, sign up for a free trial and install the Oberlo app . What happens when I receive an order? Depending on your preferences, you’ll receive an email, mobile app notification, or RSS notification every time your receive an order. Did this answer your question? Yes No",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What do I need to start selling on Shopify?",
+    "answer": "To start selling on Shopify, you’ll need a Shopify plan and products to sell. Get started by signing up for Shopify. Then set up your store and add your products . If you don’t have products to sell yet, dropshipping might be a good option for you.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Where can I sell with Shopify?",
+    "answer": "Shopify lets you sell almost anywhere your customers are, including online , in-person , online marketplaces, and social media.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What is dropshipping, and how can I dropship with Shopify?",
+    "answer": "A dropshipping business is one where the business owner lists, but doesn’t own, keep, or ship inventory. When the store sells a product, it purchases the item from a third party--usually a manufacturer or wholsesaler--who then ships it to the customer directly. This means there are no upfront inventory costs for the business owner. To start dropshipping with Shopify, sign up for a free trial and install the Oberlo app .",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What happens when I receive an order?",
+    "answer": "Depending on your preferences, you’ll receive an email, mobile app notification, or RSS notification every time your receive an order.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Payments on Shopify",
+    "answer": "What is a third-party payment processor? A third-party payment processor (also knows as a payment provider or payment gateway ) lets you accept online payments. What currencies does Shopify work with? You can sell and accept payments in many currencies, depending on what payment provider (also known as third party payment processors or payment gateways) you use. For more information, you can view a list of supported payment gateways . What is a merchant account? A merchant account is an account where your money is deposited after your customers’ payments have been authorized and processed. Did this answer your question? Yes No",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What is a third-party payment processor?",
+    "answer": "A third-party payment processor (also knows as a payment provider or payment gateway ) lets you accept online payments.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What currencies does Shopify work with?",
+    "answer": "You can sell and accept payments in many currencies, depending on what payment provider (also known as third party payment processors or payment gateways) you use. For more information, you can view a list of supported payment gateways .",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What is a merchant account?",
+    "answer": "A merchant account is an account where your money is deposited after your customers’ payments have been authorized and processed.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Shipping with Shopify",
+    "answer": "Do I need to ship items myself? No, you don’t need to ship items yourself. You can use a third-party fulfilment service to prepare and ship your orders for you. Did this answer your question? Yes No",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Do I need to ship items myself?",
+    "answer": "No, you don’t need to ship items yourself. You can use a third-party fulfilment service to prepare and ship your orders for you.",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "Resources Help and support Help and support . Get 24/7 support How-to guides . Read in-depth business guides Business courses . Learn from proven experts Shopify blog . Business strategy tips Popular topics What is Shopify?",
+    "answer": ". How our commerce platform works Shopify Editions . New, innovative Shopify products Founder stories . Learn from successful merchants Branding . Build your brand from scratch Marketing . Build a marketing plan Ecommerce SEO . Improve your search ranking Social media strategy . Turn social into sales Business growth . Scale your business Essential tools Logo maker . Stock photography . Business plan template . QR code generator .",
+    "source": "https://www.shopify.com/faq"
+  },
+  {
+    "question": "What is Shopify?",
+    "answer": ". How our commerce platform works",
+    "source": "https://www.shopify.com/faq"
+  }
+]

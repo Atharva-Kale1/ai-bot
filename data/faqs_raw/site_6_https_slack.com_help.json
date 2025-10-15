@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Hi, how can we help?",
+    "answer": "Common troubleshooting topics: notifications , connecting to Slack , huddles\nHow do I add people to a channel? I need to reset my password. How can I upgrade my Slack plan? Powered by Agentforce"
+  },
+  {
+    "question": "Getting started",
+    "answer": "Welcome to Slack! Nice to see you here. Let’s get started!"
+  },
+  {
+    "question": "Using Slack",
+    "answer": "From channels to search, learn how Slack works from top to bottom."
+  },
+  {
+    "question": "Your profile & preferences",
+    "answer": "Adjust your profile and preferences to make Slack work just for you."
+  },
+  {
+    "question": "Connect tools & automate tasks",
+    "answer": "Connect, simplify and automate. Discover the power of apps and tools."
+  },
+  {
+    "question": "Workspace administration",
+    "answer": "Want to learn more about setting up your team? Look no further!"
+  },
+  {
+    "question": "Tutorials & videos",
+    "answer": "Learning Slack made simple: tutorials, videos and tips to get up to speed and get work done."
+  },
+  {
+    "question": "Featured articles",
+    "answer": "Send and read messages Set your Slack status and availability View all your unread messages Use threads to organise discussions Understand your actions in Slack What is a channel?"
+  },
+  {
+    "question": "Slack Tips",
+    "answer": "The Quick Switcher: skip happily from channel to channel with ⌘/Ctrl+K. Need to quickly search the channel you’re in? ⌘/Ctrl+F will start that search for you. Sent something too soon? Press the up key to edit your last message."
+  },
+  {
+    "question": "Need to quickly search the channel you’re in?",
+    "answer": "⌘/Ctrl+F will start that search for you."
+  },
+  {
+    "question": "Sent something too soon?",
+    "answer": "Press the up key to edit your last message."
+  },
+  {
+    "question": "Why Slack?",
+    "answer": "Why Slack? Slack vs email Enterprise Small business Productivity Task management Scale Trust"
+  }
+]

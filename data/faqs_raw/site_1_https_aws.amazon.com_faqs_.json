@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compute",
+    "answer": "Amazon EC2 Auto Scaling FAQ\nAmazon EC2 Container Registry FAQ\nAmazon EC2 Container Service FAQ\nAmazon EC2 Windows FAQ\nAmazon EC2 FAQ\nAmazon Elastic Kubernetes Service (EKS) FAQ\nAmazon Lightsail FAQ\nAWS Batch FAQ\nAWS Data Exchange FAQ\nAWS Elastic Beanstalk FAQ\nAWS Fargate FAQ\nAWS Lambda FAQ\nAWS Outposts FAQ\nAWS Serverless Application Repository FAQ\nVMware Cloud on AWS FAQ"
+  },
+  {
+    "question": "Storage",
+    "answer": "Amazon EBS FAQ\nAmazon EFS FAQ\nAmazon FSx for Lustre FAQ\nAmazon FSx for Windows File Server FAQ\nAmazon S3 FAQ\nAWS Backup FAQ\nAWS DataSync FAQ\nAWS Elastic Disaster Recovery FAQ\nAWS Snowball FAQ\nAWS Snowball Edge FAQ\nAWS Snowmobile FAQ\nAWS Storage Gateway FAQ\nAWS Transfer for SFTP FAQ"
+  },
+  {
+    "question": "Database",
+    "answer": "Amazon Aurora FAQ\nAmazon RDS FAQ\nAmazon DynamoDB FAQ\nAmazon ElastiCache FAQ\nAmazon Redshift FAQ\nAmazon Neptune FAQ\nAWS Database Migration Service FAQ\nAmazon DocumentDB (with MongoDB compatibility) FAQs\nAmazon Timestream FAQs"
+  },
+  {
+    "question": "Migration",
+    "answer": "AWS Application Discovery Service\nAWS Application Migration Service FAQ\nAWS Migration Hub FAQ\nAWS Server Migration Service FAQ"
+  },
+  {
+    "question": "Networking & Content Delivery",
+    "answer": "Amazon VPC FAQ\nAmazon CloudFront FAQ\nAmazon Route 53 FAQ\nAmazon API Gateway FAQ\nAWS App Mesh FAQ\nAWS Direct Connect FAQ\nElastic Load Balancing FAQ"
+  },
+  {
+    "question": "Developer Tools",
+    "answer": "AWS CodeStar FAQ\nAWS CodeCommit FAQ\nAWS CodeBuild FAQ\nAWS CodeDeploy FAQ\nAWS CodePipeline FAQ\nAWS Cloud9 FAQ\nAWS CloudShell FAQ\nAWS X-Ray FAQ"
+  },
+  {
+    "question": "Management Tools",
+    "answer": "Amazon CloudWatch FAQ\nAWS Auto Scaling FAQ\nAWS CloudFormation FAQ\nAmazon CloudTrail FAQ\nAmazon Config FAQ\nAWS License Manager FAQ\nAWS OpsWorks FAQ\nAmazon Service Catalog FAQ\nAWS Systems Manager FAQ\nAWS Trusted Advisor FAQ\nAWS Management Console FAQ\nAWS Managed Services"
+  },
+  {
+    "question": "Media Services",
+    "answer": "Amazon Kinesis Video Streams FAQ\nAmazon Elastic Transcoder FAQ\nAWS Elemental MediaConvert FAQ\nAWS Elemental MediaLive FAQ\nAWS Elemental MediaPackage FAQ\nAWS Elemental MediaStore FAQ\nAWS Elemental MediaTailor FAQ"
+  },
+  {
+    "question": "Artificial Intelligence",
+    "answer": "Amazon Polly FAQ\nAmazon Rekognition FAQ"
+  },
+  {
+    "question": "Satellite",
+    "answer": "AWS Ground Station FAQ"
+  },
+  {
+    "question": "Machine Learning",
+    "answer": "Amazon Forecast FAQ\nAmazon Kendra FAQ\nAmazon Personalize FAQ\nAmazon Textract FAQ\nAWS Comprehend FAQ\nAWS DeepLens FAQ\nAmazon Lex FAQ\nAWS SageMaker FAQ\nAWS Transcribe FAQ\nAWS Translate FAQ"
+  },
+  {
+    "question": "Analytics",
+    "answer": "Amazon Athena FAQ\nAmazon Elastic MapReduce (EMR) FAQ\nAmazon CloudSearch FAQ\nAmazon Kinesis FAQ\nAmazon MSK FAQ\nAmazon OpenSearch Service FAQ\nAmazon Redshift FAQ\nAmazon QuickSight FAQ\nAWS Data Pipeline FAQ\nAWS Glue FAQ\nAWS Lake Formation FAQ"
+  },
+  {
+    "question": "Security, Identity, & Compliance",
+    "answer": "AWS Identity and Access Management FAQ\nAWS IAM Identity Center (successor to AWS SSO) FAQ\nAmazon Cloud Directory\nAmazon Cognito FAQ\nAWS GuardDuty FAQ\nAmazon Inspector FAQ\nAmazon Macie FAQ\nAWS Certificate Manager FAQ\nAWS CloudHSM FAQ\nAWS Secrets Manager\nAWS Directory Service FAQ\nAWS Key Management Service FAQ\nAWS Organizations FAQ\nAWS Shield FAQ\nAWS WAF FAQ\nAWS Artifact FAQ"
+  },
+  {
+    "question": "Mobile Services",
+    "answer": "AWS Amplify FAQ\nAWS AppSync FAQ\nAWS Device Farm FAQ"
+  },
+  {
+    "question": "AR & VR",
+    "answer": "Amazon Sumerian FAQ"
+  },
+  {
+    "question": "Application Integration",
+    "answer": "Amazon MQ FAQ\nAmazon SQS FAQ\nAmazon SNS FAQ\nAmazon SWF FAQ\nAWS AppFlow FAQ\nAWS Step Functions FAQ"
+  },
+  {
+    "question": "Cloud Financial Management",
+    "answer": "AWS Application Cost Profiler FAQ"
+  },
+  {
+    "question": "Customer Engagement",
+    "answer": "Amazon Pinpoint FAQ\nAmazon SES FAQ"
+  },
+  {
+    "question": "Business Productivity",
+    "answer": "Amazon Chime FAQ\nAmazon WorkDocs FAQ\nAmazon WorkMail FAQ"
+  },
+  {
+    "question": "Desktop & App Streaming",
+    "answer": "Amazon WorkSpaces FAQ\nAmazon AppStream 2.0 FAQ"
+  },
+  {
+    "question": "Internet of Things",
+    "answer": "AWS IoT Core FAQ\nAmazon FreeRTOS FAQ\nAWS Greengrass FAQ\nAWS IoT 1-Click FAQ\nAWS IoT Analytics FAQ\nAWS IoT Button FAQ\nAWS IoT Device Management FAQ"
+  },
+  {
+    "question": "Game Development",
+    "answer": "Amazon GameLift\nAmazon Lumberyard"
+  },
+  {
+    "question": "Payments & Billing",
+    "answer": "AWS Billing FAQ\nAmazon FPS FAQ\nAmazon DevPay FAQ"
+  },
+  {
+    "question": "Support",
+    "answer": "AWS Support FAQ"
+  },
+  {
+    "question": "Customer Enablement Services",
+    "answer": "AWS IQ FAQ"
+  },
+  {
+    "question": "Cloud computing concepts FAQs",
+    "answer": "The Cloud Computing Concepts Hub is the centralized place where you can browse or search for informative articles about cloud computing. You'll find easy-to-understand info about broad topics such as \"What is machine learning?\" and \"What is data science?\" These articles are intended to help you up-level your understanding of frequently asked cloud computing topics.\nWhat is a SQL database?\nWhat are AI Agents?\nWhat is Enterprise AI?\nWhat is AI Coding?\nWhat is Text to Speech (TTS)?\nWhat is Contact Management?\nWhat is Container Orchestration?\nWhat is Continuous Testing?\nWhat is Distributed Tracing?\nWhat is EDI?\nWhat is EAI?\nWhat is K8s Cluster?\nWhat is MAM?\nWhat is Operational Intelligence?\nWhat is RAG?\nWhat is SaaS Integration?\nWhat is Transfer Learning?\nWhat is a Transformer in AI?\nWhat is Video Transcoding?\nWhat is Cloud Management?\nWhat is Customer Data Platform (CDP)?\nWhat is a Data Catalog?\nWhat is Full Stack Development?\nWhat is Application Integration?\nWhat is Business Analytics?\nWhat is Unit Testing?\nWhat is AIOps?\nWhat is MLOps?\nWhat is GPU?\nWhat is Data Migration?\nWhat is Advanced Analytics?\nWhat is Predictive Maintenance?\nWhat is Artificial Intelligence (AI)?\nWhat is Public Cloud?\nWhat is API Key?\nWhat is Conversational AI?\nWhat is IT Infrastructure?\nWhat is Framework?\nWhat is Apache Flink?\nWhat is Cloud Migration?\nWhat is Reinforcement Learning?\nWhat is OSI Model?\nWhat is Data Backup?\nWhat is CPU?\nWhat is Materialized View?\nWhat is Zero ETL?\nWhat is SMTP?\nWhat is Data Masking?\nWhat is Dynamic DNS?\nWhat is ESB (Enterprise Service Bus)?\nWhat is generative AI?\nWhat is headless cms?\nWhat is automated reasoning?\nWhat is AJAX?\nWhat is ICMP?\nWhat is Interactive Voice Response?\nWhat is an Event Listener?\nWhat is GPT?\nWhat is Apache Iceberg?\nWhat is CIAM?\nWhat is SDK?\nWhat is Dead Letter Queue?\nWhat is Architecture Diagramming?\nWhat is Geospatial Data?\nWhat is a Bot?\nWhat is Application Performance Monitoring (APM)?\nWhat is SDLC?\nWhat is a Hypervisor?\nWhat are Log Files?\nWhat is Structured Data?\nWhat is a Data Mesh?\nWhat is a Data Pipeline?\nWhat is Data Sharing?\nWhat is a Data Store?\nWhat is a Private Cloud?\nWhat is Data Integration?\nWhat is a Workflow?\nWhat is a Web Application?\nWhat is Edge Computing?\nWhat is Document Search?\nWhat is Operational Analytics?\nWhat is Data Cleansing?\nWhat is Elasticsearch?\nWhat is No Code Machine Learning?\nWhat is 5G?\nWhat is Cybersecurity?\nWhat is MQTT protocol?\nWhat is Audio to Text Converter?\nWhat is Batch Processing?\nWhat is Block Storage?\nWhat is an Instance in Cloud Computing?\nWhat is Containerization?\nWhat is Data Management?\nWhat is Data Mart?\nWhat is Database Sharding?\nWhat is Digital Twin Technology?\nWhat is Django?\nWhat is End User Computing?\nWhat is Enterprise Software?\nWhat is Infrastructure as a Service (IaaS)?\nWhat is LAMP Stack?\nWhat is Logistic Regression?\nWhat is Cloud Native?\nWhat is Data Analytics?\nWhat is Data Modeling?\nWhat is Data Visualization?\nWhat is CIS benchmarks?\nWhat is cloud bursting?\nWhat is data strategy?\nWhat is facial recognition?\nWhat is mobile cloud computing?\nWhat is JavaScript?\nWhat is disaster recovery?\nWhat is java runtime environment?\nWhat is multi-factor authentication (MFA)?\nWhat is data preparation?\nWhat is blockchain technology?\nWhat is compute?\nWhat is data science?\nWhat is a forecast?\nWhat is IoT (Internet of Things)?\nWhat is Java?\nWhat is a data warehouse?\nWhat is computer networking?\nWhat is a VPN?\nWhat is an API?\nWhat is speech to text?\nWhat is web hosting?\nWhat is version control?\nWhat is serverless?\nWhat is root cause analysis?\nWhat is a relational database?\nWhat is Redis?\nWhat is Presto?\nWhat is PostgreSQL?\nWhat is object storage?\nWhat is MySQL?\nWhat is Kubernetes (k8s)?\nWhat is JSON?\nWhat is Hive?\nWhat is Hadoop?\nWhat is GIT?\nWhat is face recognition?\nWhat is ELK?\nWhat is Cryptography?\nWhat is Log Analytics?\nWhat is Debugging?\nWhat is Distributed computing?\nWhat is Flutter?\nWhat is boosting?\nWhat is data architecture?\nWhat is ISV?\nWhat is Text Classification?\nWhat is Valkey?\nWhat is Application Migration?\nWhat is AGI?\nWhat is CAF?\nWhat is Configuration Management?\nWhat are Autoregressive Models?\nWhat is Data Augmentation?\nWhat is Embeddings in Machine Learning?\nWhat is IDP?\nWhat is LangChain?\nWhat is Neural Radiance Fields?\nWhat is RNN?\nWhat is RLHF?\nWhat are Cloud Containers?\nWhat is Developer Tools?\nWhat is a Serverless Database?\nWhat is Serverless Computing?\nWhat is Supercomputing?\nWhat is Synthetic Data?\nWhat is s Cloud Server?\nWhat is Real-Time Data Streaming?\nWhat is Apache HBase?\nWhat is Apache Kafka?\nWhat is Boilerplate Code?\nWhat is Code Quality?\nWhat is GAN?\nWhat is Cognitive Search?\nWhat is Apache Spark?\nWhat is Prompt Engineering?\nWhat is Cloud Networking?\nWhat is Remove Monitoring and Management?\nWhat is Cloud Infrastructure?\nWhat is Intelligent Automation?\nWhat is Stable Diffusion?\nWhat is Dedicated Server?\nWhat is Incident Management?\nWhat are Large Language Models?\nWhat are Foundational Models?\nWhat is Cloud Hosting?\nWhat is iPaaS?\nWhat is IAC?\nWhat is CLI?\nWhat is Web3?\nWhat is Thin Client?\nWhat is Interoperability?\nWhat is Service Mesh?\nWhat is Data Governance?\nWhat is SMS?\nWhat is Business Intelligence?\nWhat is a Vector Database?\nWhat is Computer Vision?\nWhat is BGD (Border Gateway Protocol)?\nWhat is CORS?\nWhat is Simulation Infrastructure Manager?\nWhat is RTT in Networking?\nWhat is Genomic Data?\nWhat is CIDR?\nWhat is Push Notification Service?\nWhat is CSP Network Automation?\nWhat is Video Conferencing?\nWhat is Hyperparameter Training?\nWhat is a Computer Chip?\nWhat is a Data Cloud?\nWhat is Low Code?\nWhat is Pub/Sub Messaging?\nWhat is SLA (Service Level Agreement)?\nWhat is Repo?\nWhat is KVM?\nWhat is Streaming data?\nWhat is DevSecOps?\nWhat is Virtualization?\nWhat is Anomaly Detection?\nWhat is Security Analytics?\nWhat is Predictive Analytics?\nWhat is SIP Trunking?\nWhat is Deep Learning?\nWhat is a Database?\nWhat is Latency?\nWhat is Linear Regression?\nWhat is Load Balancing?\nWhat is Monte Carlo Simulation?\nWhat is .Net?\nWhat is Natural Language Processing (NLP)?\nWhat is Online Analytical Processing (OLAP)?\nWhat is Overfitting?\nWhat is Routing?\nWhat is Sentiment Analysis?\nWhat is SQL?\nWhat is SRE?\nWhat is XML?\nWhat is Virtual Desktop Infrastructure (VDI)?\nWhat is a SSL and TLS Certificate?\nWhat is Data Visualization?\nWhat is IDE?\nWhat is Open Source?\nWhat is Service Oriented Architecture?\nWhat is feature engineering?\nWhat is GRC?\nWhat is Scrum?\nWhat is machine translation?\nWhat is endpoint security?\nWhat is a wide area network (WAN)?\nWhat is web hosting?\nWhat is a content delivery network (CDN)?\nWhat is machine learning (ML)?\nWhat is middleware?\nWhat is NAS (Network Attached Storage)?\nWhat is a neural network?\nWhat is OCR (Optical Character Recognition)?\nWhat is Python?\nWhat is RESTful API?\nWhat is text analysis?\nWhat is DNS (Domain Name Service)?\nWhat is IT disaster recovery?\nWhat is DDOS?\nWhat is data labeling?\nWhat is continuous integration?\nWhat is computer vision?\nWhat is cloud storage?\nWhat is caching?\nWhat is big data?\nWhat is a full stack developer?\nWhat is a data lake house?\nWhat is a chatbot?\nWhat is a CDN?\nWhat are NoSQL databases?\nWhat are microservices?\nWhat is OpenSearch?\nWhat is MongoDB?\nWhat is DevOps?\nWhat is a data lake?\nWhat is Docker?\nWhat is IPSEC?\nWhat is Jaeger?\nWhat is SSO (Single Sign On)?\nWhat is VPS (Virtual Private Server)?\nWhat is Event-Driven Architecture (EDA)?\nWhat is ETL?\nWhat is Grid Computing?\nWhat is Quantum Computing?\nWhat is Cloud File Storage?\nWhat is Application Lifecycle Management (ALM)?\nWhat is Software as a Service (SaaS)?\nWhat is Hybrid Cloud?\nWhat is a Data Center?\nWhat is Data Mining?"
+  },
+  {
+    "question": "Cloud comparison tool FAQs",
+    "answer": "The Cloud Comparison Tool features content that helps readers understand common use cases for when to use one cloud solution or another. Compare and contrast cloud solutions and learn the nuances of different use cases that work best for your situation.\nKafka vs Redis\nACID vs BASE Database\nCassandra vs HBase\nData Science vs AI\nDedicated Server vs VPS\nIPv4 vs IPv6\nRabbitMq vs Redis\nDocker Images vs Containers\nMariaDB vs PostgreSQL\nSupervised vs Unsupervised Machine Learning\nKafka vs Spark\nVDI vs VPN\nPublic vs Private Cloud\nNFS vs CIFs\nRedis vs MongoDB\nWeb Server vs Application Server\nSQL vs MySQL\nXML vs HTML\nLinear vs Logistic Regression\nYAML vs JSON\nBusiness Intelligence vs Machine Learning\nDocker vs VM\nThroughput vs Latency\nIncremental vs Differential vs Other Backups\nETL vs ELT\nAPT vs APT-GET\nMonlithic vs Microservice\nFrontend vs Backend\nMariaDB vs MySQL\nArtificial Intelligence vs Machine Learning\nMachine Learning vs Deep Learning\nSSL vs TLS\nJSON vs XML\nSSD vs HDD\nContainers vs Virtual Machines\nData Lake vs Data Warehouse vs Data Mart\nLAN vs WAN\nLogical vs Physical Data Model\nMonitoring vs Observability\nDemand vs Reserved Instances\nTerraform vs K8s\nALB vs NLB vs GLB\nStructured vs Unstructured Data\nDeep Learning vs Neural Networks\nGraph vs Relational Databases\nNFS vs iSCSI\nSaaS vs On-premises\nKafka vs Redis\nType 1 vs Type 2 Hypervisors\nAgile vs DevOps\nSOA vs Microservices\nBlock vs File vs Object Storage\nMicroservices vs APIs\nMongoDB vs PostgreSQL\nNFS vs SMB\ngRPC vs REST\nRPC vs REST\nMongoDB vs MySQL\nMicroprocessors vs Microcontrollers\nCassandra vs MongoDB\nRelational vs. Non-relational Databases\nSDK vs API\nKafka vs RabbitMQ\nProxy vs VPN\nGraphQL vs Rest API\nHadoop vs Spark\nKubernetes vs Docker\nHTTPS vs HTTP\nSOAP vs REST\nMySQL vs PostgreSQL\nWeb Apps vs. Native Apps vs. Hybrid\nGPU vs CPU\nOLAP vs OLTP"
+  },
+  {
+    "question": "AWS Seller of Record FAQs",
+    "answer": "The Seller of Record (SoR) content helps Customers understand their billing, payment, tax regulations and contracting party for each jurisdiction. See FAQs for your specific Seller of Record below. For more information about SoRs, see Finding the seller of record.\n› AWS Australia FAQs - this page provides additional information for customers located in Australia. › AWS SBL FAQs - this page provides additional information for customers located in Brazil. › AWS Canada FAQs - this page provides additional information for customers located in Canada. › AWS India FAQ s - this page provides additional information for customers located in India. › AWS Japan FAQs - this page provides additional information for customers located in Japan. › AWS Malaysia FAQs - this page provides additional information for customers located in Malaysia. › AWS New Zealand FAQ s  - this page provides additional information for customers located in New Zealand.\n› AWS Singapore FAQs - this page provides additional information for customers located in Singapore. › AWS South Africa FAQs - this page provides additional information for customers located in South Africa › AWS South Korea FAQs - this page provides additional information for customers located in South Korea. › AWS Turkey FAQs - this page provides additional information for customers located in Türkiye. › AWS Europe FAQs - this page provides additional information for customers located in Europe, the Middle East, or Africa (other than South Africa)."
+  },
+  {
+    "question": "AWS Free Tier Offerings",
+    "answer": "View all AWS free tier offerings\nFree Tier Registration FAQs\nFree Tier FAQs\nFree analytics services\nFree cloud object storage\nCompare free cloud servers\nFree cloud server\nFree container services\nFree DevOps services\nFree IoT services\nFree networking and content delivery services\nFree app integration services\nFree compute services\nFree machine learning services\nFree database services\nFree websites and webapps\nFree cloud storage\nFree end user computing services\nFree cloud migration services\nFree cloud security services\nFree serverless computing services"
+  },
+  {
+    "question": "Learn",
+    "answer": "What Is AWS? What Is Cloud Computing? What Is Agentic AI? Cloud Computing Concepts Hub AWS Cloud Security What's New Blogs Press Releases"
+  },
+  {
+    "question": "Resources",
+    "answer": "Getting Started Training AWS Trust Center AWS Solutions Library Architecture Center Product and Technical FAQs Analyst Reports AWS Partners"
+  },
+  {
+    "question": "Developers",
+    "answer": "Builder Center SDKs & Tools .NET on AWS Python on AWS Java on AWS PHP on AWS JavaScript on AWS"
+  },
+  {
+    "question": "Help",
+    "answer": "Contact Us File a Support Ticket AWS re:Post Knowledge Center AWS Support Overview Get Expert Help AWS Accessibility Legal"
+  }
+]

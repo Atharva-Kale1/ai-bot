@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Set up Git",
+    "answer": "At the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer."
+  },
+  {
+    "question": "Connecting to GitHub with SSH",
+    "answer": "You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network."
+  },
+  {
+    "question": "Creating and managing repositories",
+    "answer": "You can create a repository on GitHub to store and collaborate on your project's files, then manage the repository's name and location."
+  },
+  {
+    "question": "Basic writing and formatting syntax",
+    "answer": "Create sophisticated formatting for your prose and code on GitHub with simple syntax."
+  },
+  {
+    "question": "About pull requests",
+    "answer": "Learn about pull requests and draft pull requests on GitHub. Pull requests communicate changes to a branch in a repository. Once a pull request is opened, you can review changes with collaborators and add follow-up commits."
+  },
+  {
+    "question": "Authentication documentation",
+    "answer": "Keep your account and data secure with features like two-factor authentication, SSH, and commit signature verification."
+  },
+  {
+    "question": "Getting code suggestions in your IDE with GitHub Copilot",
+    "answer": "Use GitHub Copilot to get code suggestions in your editor."
+  },
+  {
+    "question": "Managing remote repositories",
+    "answer": "Learn to work with your local repositories on your computer and remote repositories hosted on GitHub."
+  },
+  {
+    "question": "Help and support",
+    "answer": "Get quick answers! Ask Copilot your question. Ask Copilot Did you find what you needed? Yes No Privacy policy Help us make these docs great! All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request. Make a contribution Learn how to contribute Still need help? Ask the GitHub community Contact support"
+  },
+  {
+    "question": "Get quick answers!",
+    "answer": "Ask Copilot your question.\nAsk Copilot"
+  },
+  {
+    "question": "Did you find what you needed?",
+    "answer": "Yes No\nPrivacy policy"
+  },
+  {
+    "question": "Help us make these docs great!",
+    "answer": "All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.\nMake a contribution\nLearn how to contribute"
+  },
+  {
+    "question": "Still need help?",
+    "answer": "Ask the GitHub community\nContact support"
+  },
+  {
+    "question": "Legal",
+    "answer": "© 2025 GitHub, Inc. Terms Privacy Status Pricing Expert services Blog"
+  }
+]

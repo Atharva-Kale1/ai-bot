@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Browse by apps",
+    "answer": "Cloud Data Center Jira Software Jira Service Management Confluence Bitbucket Trello See all other apps Jira Software Jira Service Management Jira Core Confluence Bitbucket See all other apps"
+  },
+  {
+    "question": "Browse resources",
+    "answer": "Community Find answers, support, and inspiration from other Atlassian users. Visit Atlassian Community System Status Check the health of our cloud apps and services. View system status Suggestions and bug reports Find existing feature suggestions and bug reports. View suggestions and bugs Marketplace apps Find features to customize your apps. View Marketplace Billing and licensing See FAQs about billing and licensing. View FAQs Training and Certification Develop new skills, improve your team’s work, and advance your professional career. View training Developers Find API documentation and guides for developing apps and integrations. View developer docs Enterprise Learn about Atlassian Enterprise and its Data Center products. View enterprise documentation Government Cloud Support Get technical and migration support for an Atlassian Government project. Log in to contact support Success Central Get help adopting your apps with a library of content authored by Atlassian and partner experts. View Success Central"
+  },
+  {
+    "question": "Community",
+    "answer": "Find answers, support, and inspiration from other Atlassian users."
+  },
+  {
+    "question": "System Status",
+    "answer": "Check the health of our cloud apps and services."
+  },
+  {
+    "question": "Suggestions and bug reports",
+    "answer": "Find existing feature suggestions and bug reports."
+  },
+  {
+    "question": "Marketplace apps",
+    "answer": "Find features to customize your apps."
+  },
+  {
+    "question": "Billing and licensing",
+    "answer": "See FAQs about billing and licensing."
+  },
+  {
+    "question": "Training and Certification",
+    "answer": "Develop new skills, improve your team’s work, and advance your professional career."
+  },
+  {
+    "question": "Developers",
+    "answer": "Find API documentation and guides for developing apps and integrations."
+  },
+  {
+    "question": "Enterprise",
+    "answer": "Learn about Atlassian Enterprise and its Data Center products."
+  },
+  {
+    "question": "Government Cloud Support",
+    "answer": "Get technical and migration support for an Atlassian Government project."
+  },
+  {
+    "question": "Success Central",
+    "answer": "Get help adopting your apps with a library of content authored by Atlassian and partner experts."
+  }
+]

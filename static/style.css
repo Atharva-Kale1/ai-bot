@@ -1,0 +1,11 @@
+body{font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif;background:#f4f7fb;color:#222;margin:0;padding:0;display:flex;align-items:center;justify-content:center;height:100vh}
+.chat-container{width:420px;background:#fff;border-radius:8px;box-shadow:0 6px 30px rgba(25,25,40,.08);display:flex;flex-direction:column;overflow:hidden}
+header{padding:16px;border-bottom:1px solid #eee}
+main{padding:16px;flex:1;overflow:auto}
+#messages{display:flex;flex-direction:column;gap:8px}
+.message{padding:10px;border-radius:8px;max-width:80%}
+.message.user{align-self:flex-end;background:#e6f0ff}
+.message.bot{align-self:flex-start;background:#f1f3f5}
+form{display:flex;border-top:1px solid #eee}
+input{flex:1;padding:12px;border:0;outline:none}
+button{padding:0 18px;border:0;background:#2463eb;color:#fff}

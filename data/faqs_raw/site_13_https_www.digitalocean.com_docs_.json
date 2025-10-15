@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Products",
+    "answer": "Compute Build your application the way you want with our suite of compute products including VMs, managed containers, PaaS, and serverless functions. Gradient API, CLI, and SDK Reference Install and use the Gradient Command Line Interface to manage Notebooks, Deployments, and Workflows programmatically. Storage Store and access any amount of data reliably in the cloud, either with S3-compatible Spaces Object Storage or with network-based block storage volumes. Managed Databases Run fully managed database clusters running your choice of database engine and avoid manual setup and maintenance. Containers and Images Create backups, upload custom images, use preconfigured images to create resources, and store Docker images in a private registry. Networking Secure and control the traffic to your applications with VPC networking, traffic filtering, and load balancing. Management Track the health of your infrastructure, URLs, and more, set alerts to stay informed, and organize your resources with projects."
+  },
+  {
+    "question": "Platform",
+    "answer": "DigitalOcean Platform Overview Information about the DigitalOcean platform, like billing details, release notes, product availability by datacenter, support plans, and account details.\nBilling Information on billing, including invoices, billing alerts, payment methods, late payments, and taxes. Accounts Manage your team membership and your name, sign-in method, and email subscriptions with your personal DigitalOcean account. Reference Home Manage resources programmatically and integrate across the developer ecosystem with CLIs, APIs, and SDKs. Support Home Looking for technical support with your DigitalOcean account or infrastructure? Start here.\nMost Viewed Product Docs How to Connect to Droplets with the Droplet Console Point to DigitalOcean Name Servers From Common Domain Registrars How to Use Environment Variables in App Platform Reference for App Specification How to Deploy from Container Images How to Create a Droplet How to Manage Databases in App Platform Choosing the Right CPU Droplet Plan How to Deploy using GitHub Actions How to Add Domains"
+  },
+  {
+    "question": "We can't find any results for your search.",
+    "answer": "Try using different keywords or simplifying your search terms."
+  }
+]

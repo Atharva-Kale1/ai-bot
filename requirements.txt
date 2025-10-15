@@ -1,0 +1,8 @@
+Flask==2.3.4
+Flask-SQLAlchemy==3.0.3
+SQLAlchemy==2.0.22
+python-dotenv==1.0.0
+google-genai==0.8.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
