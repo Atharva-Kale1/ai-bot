@@ -106,4 +106,3 @@ Notes:
 
 ---
 
-If you want, I can now add tests and a `/health` endpoint and then run pytest — tell me to proceed and I’ll do it.
